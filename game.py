@@ -6,4 +6,4 @@ WIDTH = 1280
 HEIGHT = 720
 
 print('khai commit')
-print("danh commit")
+print("danh commit"+"danh branch dev_danh")
