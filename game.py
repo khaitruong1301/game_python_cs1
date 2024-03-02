@@ -4,3 +4,5 @@ pygame.init()
 
 WIDTH = 1280
 HEIGHT = 720
+
+print("danh commit")
